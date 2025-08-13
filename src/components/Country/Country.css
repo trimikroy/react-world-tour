@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid darkcyan;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(59, 59, 54);
+}
+.flagsImg{
+    width: 100px;
+}
