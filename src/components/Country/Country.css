@@ -8,3 +8,15 @@
 .flagsImg{
     width: 100px;
 }
+.visT{
+    color:white;
+    font:800px;
+    background-color: rgb(51, 247, 51);
+    border-radius: 5px;
+}
+.visF{
+    color:white;
+    font:800px;
+    background-color: rgb(241, 148, 49);
+    border-radius: 5px;
+}
