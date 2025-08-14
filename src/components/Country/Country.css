@@ -20,3 +20,6 @@
     background-color: rgb(241, 148, 49);
     border-radius: 5px;
 }
+.visited{
+    background-color: rgb(64, 209, 45);
+}
